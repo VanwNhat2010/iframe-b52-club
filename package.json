@@ -1,0 +1,13 @@
+{
+  "name": "iframe-b52-club",
+  "version": "1.0.0",
+  "description": "Proxy server to bypass iframe restrictions for i.b52.club",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.6.2"
+  }
+}
